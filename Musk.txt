@@ -1,0 +1,6 @@
+<h1>Elon Musk</h1>
+<p>Elon Reeve Musk FRS is an entrepreneur and business magnate.</p>
+<p>He is the founder, CEO, and Chief Engineer at SpaceX; early-stage investor, CEO, and Product Architect of Tesla, Inc.</p></p>
+<p>Founder of The Boring Company.</p>
+<p>Co-founder of Neuralink and OpenAI.</p>
+<img src="http://127.0.0.1:5500/muck.jpeg" width="200" height="200" />
